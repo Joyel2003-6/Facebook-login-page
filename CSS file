@@ -1,0 +1,147 @@
+//code is made by joyel thomas
+.header{
+    background: #3b5998;
+    width: 100%;
+    height: 85px;
+    
+}
+body{
+    margin: 0;
+    font-family: Helvetica Neue, Arial, Helvetica, sans-serif;
+}
+.logo{
+    width: 50%;
+    padding-top: 28px;
+    float: left;
+}
+.login{
+    width: 50%;
+    float: left;
+}
+.logo-text{
+    color:#fff;
+font-size: 40px;
+font-weight: bold;
+text-decoration: none;
+margin-left: 170px;    
+}
+
+.login-controls{
+    padding-top: 10px;
+}
+
+  
+.login-label{
+    color: #fff;
+    font-size: 13px;
+}   
+
+.forgot{
+    color: #fff;
+    font-size: 11px;
+    padding-left: 4px;
+    padding-top: 3px;
+    cursor: pointer;
+
+}
+.sub-btn{
+    background-color: #4267b2;
+    border-color: #29487d;
+    color: #fff;
+    cursor: pointer;
+}
+.sub-btn:hover{
+    background-color: #376ad2;
+}
+.left-section{
+    width: 50%;
+    float: left;
+    padding-left: 77px;
+    padding-top: 53px;
+}
+
+.right-section{
+    width: 44%;
+    float: left;
+}
+.main-body{
+    background: linear-gradient(white, #D3D8E8);
+    width: 100%;
+    height: 559.4px;
+}
+.image{
+    width: 517px;
+}
+.para{
+    font-weight: bold;
+    font-size: 21px;
+}
+.first-name{
+    height: 35px;
+    width: 200px;
+    border-radius: 03px;
+    border: 1px solid #95a5a6;
+}
+.sec-name{
+    height: 35px;
+    width: 200px;
+    float: right;
+    margin-right: 152px;
+    margin-left: 5px;
+    border-radius: 03px;
+    border: 1px solid #95a5a6;
+}
+.mob{
+    height: 35px;
+    width: 418px;
+    margin-top: 12px;
+    border-radius: 03px;
+    border: 1px solid #95a5a6;
+}
+.pass{
+    height: 35px;
+    width: 418px;
+    margin-top: 12px;
+    border-radius: 03px;
+    border: 1px solid #95a5a6;
+}
+.day{
+    height: 30px;
+    border-radius: 03px;
+    border: 1px solid #95a5a6; 
+    width: 62px;
+}
+.month{
+    height: 30px;
+    border-radius: 03px;
+    border: 1px solid #95a5a6; 
+    width: 67px;
+}
+.year{
+    height: 30px;
+    border-radius: 03px;
+    border: 1px solid #95a5a6; 
+    width: 67px;
+}
+.why{
+    font-size: 12px;
+    padding-left: 9px;
+    color: #3b5998;
+    cursor: pointer;
+}
+.parag{
+    font-size: 12px;
+    margin-top: 0px;
+    padding-top: 0px;
+}
+.craccount{
+    
+    background-color: green;
+    font-size: 19px;
+    width: 210px;
+    border-radius: 03px;
+    border: 1px solid black;
+    color: white;
+    height: 33px;
+    cursor: pointer;
+}
